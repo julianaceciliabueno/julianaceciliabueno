@@ -1,4 +1,4 @@
-## Olar! eu sou a Juliana Cecília Bueno, Estudante em Testes e Qualidade de Software!
+## Olar! Eu sou a Juliana Cecília Bueno, Estudante em Testes Automatizados e Qualidade de Software!
 <div align="center">
   <a href="https://github.com/julianaceciliabueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

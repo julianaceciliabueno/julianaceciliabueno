@@ -3,8 +3,7 @@
   <a href="https://github.com/julianaceciliabueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaceciliabueno&layout=compact&langs_count=7&theme=bear"/>
-   <img align="right" alt="Jub-pic" height="150" style="border-radius:50px;" 
-   src="https://picrew.me/shareImg/org/202207/338224_t2lPjd34.png?width=676&height=676">
+
 </div>
 <div style="display: inline_block"><br>
 

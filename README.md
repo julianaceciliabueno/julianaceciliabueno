@@ -16,6 +16,8 @@
   <img align="center" alt="Juh-robot" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
  
+ ![Your 7-Minute Guide to Growth Hacking](https://user-images.githubusercontent.com/61919008/185719588-391bebad-da31-4740-a09b-d8cf9fcb0cea.gif)
+
   
 
   

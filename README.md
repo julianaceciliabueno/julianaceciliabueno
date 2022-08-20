@@ -1,6 +1,6 @@
-![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
-  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+
+  
 
 
 ### :woman_technologist: &nbsp;Sobre mim :
@@ -12,7 +12,7 @@ I am a Full Stack Developer
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 https://github.com/Potential17
 
-<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="450" height="300"  /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="50%" height="30%"  /></p>
 
 ### 🔥 &nbsp; Meus Status :
 <br>

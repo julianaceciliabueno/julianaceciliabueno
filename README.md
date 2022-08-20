@@ -7,7 +7,7 @@ I am a Full Stack Developer
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="800" height="300"  /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="500" height="300"  /></p>
 
 ### 🔥 &nbsp; Meus Status :
 <br>

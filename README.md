@@ -1,5 +1,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="95%" height="9%"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=julianaceciliabueno&style=flat-square&color=red" alt=""></p>
 
 
 ### :woman_technologist: &nbsp;Sobre mim :
@@ -7,7 +8,7 @@
 Eu sou Analista De Qualidade De Software:
 
 - 🔭 Executo desde os testes manuais e automatizados, até a escrita dos casos de testes.
-- 🌱 Sou multi formada, em Arquitetura e Análise e Desenvolvimento de Sistemas.
+- 🌱 Sou formada em: Arquitetura e Urbanismo e Análise e Desenvolvimento de Sistemas e Pòs graduada em Ux Design.
 - ⚡ Estudo na Qa.Coders e Iterasys. 
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
 ---
@@ -44,4 +45,4 @@ Eu sou Analista De Qualidade De Software:
   <a href = "mailto:juka.bueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-cecilia-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+  ![snake gif](https://github.com//julianaceciliabueno/blob/output/github-contribution-grid-snake.svg)

@@ -8,10 +8,10 @@ Eu sou Analista De Qualidade De Software:
 - 🌱 Sou multi formada, em Arquitetura e Análise e Desenvolvimento de Sistemas.
 - ⚡ Estudo na Qa.Coders e Iterasys. 
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
-
+https://raw.githubusercontent.com/arthurspk/arthurspk/main/README.md
 
 <p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
-![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+
 
 ### 🔥 &nbsp; Meus Status :
 <br>

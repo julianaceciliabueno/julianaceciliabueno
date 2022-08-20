@@ -1,24 +1,21 @@
 
 
-  
-
-
 ### :woman_technologist: &nbsp;Sobre mim :
 
-Eu sou Analista de qualidade de software:
+Eu sou Analista De Qualidade De Software:
 
-- 🔭 Executo desde os testes manuais ao automatizados.
+- 🔭 Executo desde os testes manuais e automatizados, até a escrita dos casos de testes.
 - 🌱 Sou multi formada, em Arquitetura e Análise e Desenvolvimento de Sistemas.
 - ⚡ Estudo na Qa.Coders e Iterasys. 
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
 
 
 <p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
+![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
 
 ### 🔥 &nbsp; Meus Status :
 <br>
-
-  <a href="https://github.com/julianaceciliabueno">
+<a href="https://github.com/julianaceciliabueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaceciliabueno&layout=compact&langs_count=7&theme=bear">
 

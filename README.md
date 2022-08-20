@@ -1,4 +1,6 @@
 
+<p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
+
 
 ### :woman_technologist: &nbsp;Sobre mim :
 
@@ -8,9 +10,7 @@ Eu sou Analista De Qualidade De Software:
 - 🌱 Sou multi formada, em Arquitetura e Análise e Desenvolvimento de Sistemas.
 - ⚡ Estudo na Qa.Coders e Iterasys. 
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
-https://raw.githubusercontent.com/arthurspk/arthurspk/main/README.md
-
-<p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
+---
 
 
 ### 🔥 &nbsp; Meus Status :
@@ -45,4 +45,3 @@ https://raw.githubusercontent.com/arthurspk/arthurspk/main/README.md
   <a href="https://www.linkedin.com/in/juliana-cecilia-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  https://github.com/arthurspk

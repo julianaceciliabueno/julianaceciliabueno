@@ -1,3 +1,8 @@
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+
+  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+
+
 ### :woman_technologist: &nbsp;Sobre mim :
 
 I am a Full Stack Developer 

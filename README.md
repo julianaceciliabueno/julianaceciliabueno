@@ -5,7 +5,7 @@ I am a Full Stack Developer
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-
+https://github.com/itsZed0/itsZed0/blob/main/README.md
 
 <p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="500" height="300"  /></p>
 

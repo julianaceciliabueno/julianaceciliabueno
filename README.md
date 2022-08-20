@@ -1,5 +1,5 @@
 
-<p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
+<p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="95%" height="9%"  /></p>
 
 
 ### :woman_technologist: &nbsp;Sobre mim :

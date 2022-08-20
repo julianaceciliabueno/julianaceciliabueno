@@ -5,14 +5,15 @@
 
 ### :woman_technologist: &nbsp;Sobre mim :
 
-I am a Full Stack Developer 
+Eu sou Analista de qualidade de software:
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-https://github.com/Potential17
+- 🔭 Executo desde os testes manuais ao automatizados.
+- 🌱 Sou multi formada, em Arquitetura e Análise e Desenvolvimento de Sistemas.
+- ⚡ Estudo na Qa.Coders e Iterasys. 
+- 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="70%" height="40%"  /></p>
+
+<p><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="80%" height="40%"  /></p>
 
 ### 🔥 &nbsp; Meus Status :
 <br>

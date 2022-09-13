@@ -36,9 +36,11 @@ Eu sou Analista De Qualidade De Software:
   
   <img align="center" alt="Juh-selenium" width="6%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Juh-Python"  width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Juh-robot"  width="6%" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
+   <img align="center" alt="Juh-postman"  width="6%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">                                                                                                                             
+  <img align="center" alt="Juh-robot"  width="7%" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest"  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
   <img align="center" alt="figma" width="5%"src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 
+                                                                                       
 
 ---
 

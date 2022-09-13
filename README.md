@@ -8,9 +8,9 @@
 Eu sou Analista De Qualidade De Software:
 
 - 🔭 Executo desde os testes manuais e automatizados, até a escrita dos casos de testes.
-- 🌱 Sou formada em: Arquitetura e Urbanismo e Análise e Desenvolvimento de Sistemas e Pòs graduada em Ux Design.
-- ⚡ Estudo na Qa.Coders e Iterasys. 
-- 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música e ás vezes eu desenho.
+- 🌱 Sou formada em: Arquitetura e Urbanismo e Análise e Desenvolvimento de Sistemas e Pós graduada em Ux Design.
+- ⚡ Estudo formação em qualidade de software na Qa.Coders e sou formada na especialização em qualidade e automação de testes na Iterasys e testes de API em java na Chronos Academy.
+- 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música (Saxofone e Flauta) e as vezes eu desenho á mão livre.
 ---
 
 
@@ -20,25 +20,32 @@ Eu sou Analista De Qualidade De Software:
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&locale=pt-br" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=julianaceciliabueno&theme=bear&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 
 
 <div style="display: inline_block"><br>
 
----
 
-### 🛠 &nbsp;Linguagens e Ferramentas :
+### 🛠 &nbsp;Linguagens e Frameworks :
 
   <img align="center" alt="Juh-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juh-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juh-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juh-py" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
+  <img align="center" alt="Juh-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  
   <img align="center" alt="Juh-selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg- logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Juh-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juh-robot" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
   <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+
+---
+
+### 🛠 &nbsp;IDEs:
+<img align="left" alt="Juh-py" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
+<img align="left"  alt="Juh-intellij" width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+<img align="center" alt="Juh-visualstudio"  width="12%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
+
 
 ---  
   

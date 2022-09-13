@@ -16,7 +16,7 @@ Eu sou Analista De Qualidade De Software:
 
 ### 🔥 &nbsp; Meus Status :
 <a href="https://github.com/julianaceciliabueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?  username=julianaceciliabueno&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaceciliabueno&layout=compact&langs_count=7&theme=bear">
 
 

@@ -16,9 +16,11 @@ Eu sou Analista De Qualidade De Software:
 
 ### 🔥 &nbsp; Meus Status :
  <a href="https://github.com/julianaceciliabueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaceciliabueno&layout=compact&langs_count=7&theme=bear">
-
+  
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&locale=pt-br" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=julianaceciliabueno&theme=bear&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 
 
@@ -32,7 +34,7 @@ Eu sou Analista De Qualidade De Software:
   <img align="center" alt="Juh-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juh-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juh-py" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
-  <img align="center" alt="Juh-selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  <img align="center" alt="Juh-selenium" height="60" width="60" src="https://raw.githubusercontent.com/detain/svg- logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Juh-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juh-robot" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">

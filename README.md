@@ -9,7 +9,7 @@ Eu sou Analista De Qualidade De Software:
 
 - 🔭 Executo testes manuais e automatizados.
 - 🌱 Sou formada em: Arquitetura e Urbanismo e Análise e Desenvolvimento de Sistemas e Pós graduada em Ux Design.
-- ⚡ Sou formada nas especializações em qualidade e automação de testes na Iterasys, testes de API em java na Chronos Academy e qualidade de software na Qa.Coders 
+- ⚡ Sou formada nas especializações em qualidade e automação de testes na Iterasys, testes de API em java na Chronos Academy e qualidade de software na Qa.Coders.
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música (Saxofone e Flauta) e as vezes eu desenho á mão livre.
 ---
 

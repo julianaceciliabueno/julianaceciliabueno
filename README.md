@@ -13,13 +13,12 @@ Eu sou Analista De Qualidade De Software:
 - 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música (Saxofone e Flauta) e as vezes eu desenho á mão livre.
 ---
 
-
-<!--### 🔥 &nbsp; Meus Status :
+### 🔥 &nbsp; Meus Status :
  <a href="https://github.com/julianaceciliabueno">
   
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianaceciliabueno&show_icons=true&theme=bear&locale=pt-br" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=julianaceciliabueno&theme=bear&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D" />-->
+   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=julianaceciliabueno&theme=bear&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D" 
 
 
 

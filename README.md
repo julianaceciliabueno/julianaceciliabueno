@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="95%" height="9%"  /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/61919008/185722617-b076ce13-448a-4e9d-9c3b-c1e9e91c7632.gif" width="40%" height="80%"  /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=julianaceciliabueno&style=flat-square&color=red" alt=""></p>
 
 
@@ -36,7 +36,11 @@ Sou Analista de Qualidade de Software Pleno, com foco em migração para a área
   
   <img align="center" alt="Juh-selenium" width="6%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Juh-Python"  width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Juh-postman"  width="6%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">                                                                                                                             
+   <img align="center" alt="Juh-postman"  width="6%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">    
+   <img align="center" alt="Juh-sql"  width="9%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">  
+    <img align="center" alt="Juh-numpy"  width="9%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">  
+    <img align="center" alt="Juh-numpy"  width="9%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+   
   <img align="center" alt="Juh-robot"  width="7%" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest"  width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
   <img align="center" alt="figma" width="5%"src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 

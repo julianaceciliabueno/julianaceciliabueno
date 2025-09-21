@@ -13,7 +13,8 @@ Sou Analista de Qualidade de Software Pleno, com foco em migração para a área
 
 ⚡ Especialização em Qualidade e Automação de Testes: Certificada pela Iterasys, com foco em automação e aprimoramento de processos de qualidade.
 
-😄 Em constante evolução: Estou me aprofundando em Análise de Dados no Senai, com cursos em Python, SQL e BI, para transitar entre a qualidade de software e o universo de dados.
+😄 Em constante evolução: Estou me aprofundando em Análise de dados no Senai, com cursos em Phython,SQL e BI.
+
 ---
 
 ### 🔥 &nbsp; Meus Status :

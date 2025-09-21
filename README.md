@@ -5,12 +5,15 @@
 
 ### :woman_technologist: &nbsp;Sobre mim :
 
-Eu sou Analista De Qualidade De Software:
+Sou Analista de Qualidade de Software Pleno, com foco em migração para a área de dados. Apaixonada por tecnologia, estou sempre buscando novos desafios e oportunidades de aprendizado.
 
-- 🔭 Executo testes manuais e automatizados.
-- 🌱 Sou formada em: Arquitetura e Urbanismo e Análise e Desenvolvimento de Sistemas e Pós graduada em Ux Design.
-- ⚡ Sou formada nas especializações em qualidade e automação de testes na Iterasys, testes de API em java na Chronos Academy e qualidade de software na Qa.Coders.
-- 😄 Nas horas livres, ou estou estudando o Syllabus, ou estou estudando música (Saxofone e Flauta) e as vezes eu desenho á mão livre.
+🔭 Especialista em Testes: Realizo tanto testes manuais quanto automatizados, garantindo a qualidade de sistemas e a entrega de soluções robustas.
+
+🌱 Formação sólida: Sou formada em Análise e Desenvolvimento de Sistemas, Pós-graduada em UX Design, e atualmente estou cursando Engenharia, ampliando ainda mais meu conhecimento técnico.
+
+⚡ Especialização em Qualidade e Automação de Testes: Certificada pela Iterasys, com foco em automação e aprimoramento de processos de qualidade.
+
+😄 Em constante evolução: Estou me aprofundando em Análise de Dados no Senai, com cursos em Python, SQL e BI, para transitar entre a qualidade de software e o universo de dados.
 ---
 
 ### 🔥 &nbsp; Meus Status :
